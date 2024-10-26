@@ -12,3 +12,4 @@ from matplotlib import pyplot as plt
 
 **Heatmap:**
 
+<img src="./src/images/heatmap.jpg"/>
