@@ -1,2 +1,14 @@
 # Agricultural_Raw_Material_prices
-Análise de Dados a partir de um Dataset do Kaggle, sobre produtos agrícolas.
+**Data analitcs of a agricultural materials dataset from Kaggle.**
+
+_Libraries:_
+
+import kagglehub
+import pandas as pd
+import numpy as np
+import seaborn as sbn
+import matplotlib
+from matplotlib import pyplot as plt
+
+**Heatmap:**
+
